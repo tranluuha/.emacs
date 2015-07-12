@@ -1,0 +1,3 @@
+[submodule "emacs.d/plugins/Pymacs"]
+	path = emacs.d/plugins/Pymacs
+	url = https://github.com/pinard/Pymacs
