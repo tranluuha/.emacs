@@ -1,0 +1,74 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/ha/.emacs.d/plugins/" . "python-mode.el-6.2.0/")
+ ("/Users/ha/.emacs.d/" . "plugins/")
+ ("/Users/ha/projects/" . "python/")
+ ("/Users/ha/GitHub/emacs/emacs.d/plugins/" . "Pymacs/")
+ ("/Users/ha/GitHub/emacs/emacs.d/" . "settings/")
+ ("/Users/ha/GitHub/emacs/" . "emacs.d/")
+ ("/Users/ha/GitHub/" . "emacs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/ha/.emacs.d/settings/"
+ "/Users/ha/"
+ "/Users/ha/.emacs.d/plugins/python-mode.el-6.2.0/"
+ "/Users/ha/projects/python/"
+ "/Users/ha/GitHub/emacs/emacs.d/settings/"
+ "/Users/ha/projects/python/HBK/"
+ "/Users/ha/GitHub/emacs/emacs.d/plugins/Pymacs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "python-settings.el"
+ ".emacs"
+ "python-mode.el"
+ "newTest.py"
+ ".emacs.old"
+ "fill-column-indicator-settings.el"
+ "NewSingleton.py"
+ "test.py"
+ "pymacs.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/ha/.emacs.d/" (21927 9188 0 0) "settings/" "plugins/" "ido.last~" "ido.last" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/ha/.emacs.d/settings/" (21927 8839 0 0) "window-settings.el" "ui-settings.el" "text-settings.el" "python-settings.el~" "python-settings.el" "fill-column-indicator-settings.el" "custom.el" "custom-functions.el" "cursor-settings.el" "camelcase-settings.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/ha/.emacs.d/plugins/python-mode.el-6.2.0/" (21927 8355 0 0) "test/" "setup.py" "README-AUTOPAIR.org" "README" "python-mode.el~" "python-mode.el" "PROBLEMS.org" "PKG-INFO" "NEWS" "LICENSE" "INSTALL-INFO-FILES" "INSTALL" "extensions/" "doc/" "completion/" "byte-compile-directory.sh" "../" "./")
+
+ ("/Users/ha/projects/python/" (21927 8066 0 0) "test.py" "refactor.py~" "refactor.py" "newTest_flymake.pyc" "newTest.py~" "newTest.py" "NewSingleton.py~" "NewSingleton.py" "HBK/" "gsa.py~" "gsa.py" "BorgeSingleton.py~" "BorgeSingleton.py" "aqr.py~" "aqr.py" "../" "./")
+
+ ("/Users/ha/" (21927 7647 0 0) "scala/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "MacPro.pem.txt" "MacPro.pem" "Library/" "IdeaProjects/" "hello-world/" "GitHub/" "Downloads/" "Documents/" "Desktop/" "bin/" "Applications/" "android-studio-ide-1641136.dmg" "anaconda/" ".Xauthority" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".serverauth.72969" ".scala_history" ".sbt/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".Rapp.history" ".R/" ".pia_manager_crash.log" ".pia_manager/" ".matplotlib/" ".matlab/" ".lesshst" ".ivy2/" ".ipython/" ".idlerc/" ".IdeaIC14/" ".gitconfig" ".emacs~" ".emacs.old" ".emacs.d.old/" ".emacs.d/" ".emacs" ".DS_Store" ".cups/" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc~" ".bashrc" ".bash_profile~" ".bash_profile.macports-saved_2015-06-15_at_00:10:14" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".android/" "../" "./")
+
+ ("/Users/ha/.emacs.d/plugins/" (21926 21299 0 0) "python-mode.el-6.2.0/" "Pymacs/" "popup-el/" "nxhtml/" "markdown-mode/" "Fill-Column-Indicator/" "emacs-websocket/" "emacs-request/" "emacs-ipython-notebook/" "auto-complete/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21644 37485 0 0) "Shared/" "ha/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/ha/GitHub/emacs/emacs.d/settings/" (21927 5203 0 0) "window-settings.el" "ui-settings.el" "text-settings.el" "python-settings.el~" "python-settings.el" "fill-column-indicator-settings.el~" "fill-column-indicator-settings.el" "custom.el" "custom-functions.el" "cursor-settings.el" "camelcase-settings.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/ha/.emacs.d/plugins/Pymacs/" (21927 4752 0 0) "TODO" "THANKS" "tests/" "setup.py" "setup.cfg" "README.org" "pymacs.rst.in" "pymacs.rst" "Pymacs.pyc" "Pymacs.py.in" "Pymacs.py" "pymacs.el.in" "pymacs.el" "ppppconfig.py" "pppp.rst.in" "pppp.rst" "pppp" "Makefile" "COPYING" "contrib/" "build/" ".gitignore" ".git" "../" "./")
+
+ ("/Users/ha/GitHub/emacs/emacs.d/" (21927 4747 0 0) "settings/" "plugins/" "ido.last~" "ido.last" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/ha/GitHub/emacs/emacs.d/plugins/Pymacs/" (21927 4752 0 0) "TODO" "THANKS" "tests/" "setup.py" "setup.cfg" "README.org" "pymacs.rst.in" "pymacs.rst" "Pymacs.pyc" "Pymacs.py.in" "Pymacs.py" "pymacs.el.in" "pymacs.el" "ppppconfig.py" "pppp.rst.in" "pppp.rst" "pppp" "Makefile" "COPYING" "contrib/" "build/" ".gitignore" ".git" "../" "./")
+
+ ("/Users/ha/projects/python/HBK/" (21921 58869 0 0) "test.py" "../" "./")
+
+ ("/Users/ha/projects/" (21887 45129 0 0) "python/" "c++/" "../" "./")
+
+ ("/Users/ha/GitHub/emacs/" (21926 20317 0 0) "README.md" "emacs.d/" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/ha/GitHub/" (21922 4296 0 0) "emacs/" ".DS_Store" "../" "./")
+
+ ("/Users/ha/GitHub/emacs/emacs.d/plugins/" (21926 21299 0 0) "python-mode.el-6.2.0/" "Pymacs/" "popup-el/" "nxhtml/" "markdown-mode/" "Fill-Column-Indicator/" "emacs-websocket/" "emacs-request/" "emacs-ipython-notebook/" "auto-complete/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,3 +1,24 @@
 [submodule "emacs.d/plugins/Pymacs"]
 	path = emacs.d/plugins/Pymacs
 	url = https://github.com/pinard/Pymacs
+[submodule "emacs.d/plugins/nxhtml"]
+	path = emacs.d/plugins/nxhtml
+	url = https://github.com/emacsmirror/nxhtml
+[submodule "emacs.d/plugins/popup-el"]
+	path = emacs.d/plugins/popup-el
+	url = https://github.com/auto-complete/popup-el
+[submodule "emacs.d/plugins/emacs-websocket"]
+	path = emacs.d/plugins/emacs-websocket
+	url = https://github.com/ahyatt/emacs-websocket
+[submodule "emacs.d/plugins/emacs-request"]
+	path = emacs.d/plugins/emacs-request
+	url = https://github.com/tkf/emacs-request
+[submodule "emacs.d/plugins/auto-complete"]
+	path = emacs.d/plugins/auto-complete
+	url = https://github.com/auto-complete/auto-complete
+[submodule "emacs.d/plugins/emacs-ipython-notebook"]
+	path = emacs.d/plugins/emacs-ipython-notebook
+	url = https://github.com/tkf/emacs-ipython-notebook
+[submodule "emacs.d/plugins/markdown-mode"]
+	path = emacs.d/plugins/markdown-mode
+	url = https://github.com/defunkt/markdown-mode
