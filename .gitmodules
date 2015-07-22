@@ -22,3 +22,9 @@
 [submodule "emacs.d/plugins/markdown-mode"]
 	path = emacs.d/plugins/markdown-mode
 	url = https://github.com/defunkt/markdown-mode
+[submodule "emacs.d/plugins/--force"]
+	path = emacs.d/plugins/--force
+	url = https://github.com/tkf/emacs-ipython-notebook
+[submodule "emacs.d/plugins/emacs-python-notebook"]
+	path = emacs.d/plugins/emacs-python-notebook
+	url = https://github.com/tkf/emacs-ipython-notebook
